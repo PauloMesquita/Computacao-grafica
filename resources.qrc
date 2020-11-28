@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>Wall_Stone_017_Normal.jpg</file>
+        <file>Wall_Stone_017_BaseColor.jpg</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>fnormal.glsl</file>
+        <file>fphong.glsl</file>
+        <file>ftexture.glsl</file>
+        <file>vnormal.glsl</file>
+        <file>vphong.glsl</file>
+        <file>vtexture.glsl</file>
+        <file>vgouraud.glsl</file>
+        <file>fgouraud.glsl</file>
+    </qresource>
+</RCC>
