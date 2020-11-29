@@ -37,8 +37,8 @@ GLWidget::~GLWidget()
 void GLWidget::initializeGL()
 {
     glEnable(GL_DEPTH_TEST);
-    QImage texColor = QImage(":/textures/Wall_Stone_017_BaseColor.jpg");
-    QImage texNormal= QImage(":/textures/Wall_Stone_017_Normal.jpg");
+    QImage texColor = QImage(":/textures/1.jpg");
+    QImage texNormal= QImage(":/textures/2.jpg");
     glActiveTexture(GL_TEXTURE0);
     texID[0] = bindTexture(texColor);
     glActiveTexture(GL_TEXTURE1);

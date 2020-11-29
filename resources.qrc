@@ -2,6 +2,8 @@
     <qresource prefix="/textures">
         <file>Wall_Stone_017_Normal.jpg</file>
         <file>Wall_Stone_017_BaseColor.jpg</file>
+        <file>2.jpg</file>
+        <file>1.jpg</file>
     </qresource>
     <qresource prefix="/shaders">
         <file>fnormal.glsl</file>
